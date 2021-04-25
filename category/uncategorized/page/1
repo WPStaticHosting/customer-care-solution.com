@@ -45,7 +45,11 @@ flexibility(document.documentElement);
 <script src='http://lg.fazals.ml/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <link rel="https://api.w.org/" href="http://lg.fazals.ml/wp-json/" /><link rel="alternate" type="application/json" href="http://lg.fazals.ml/wp-json/wp/v2/categories/1" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lg.fazals.ml/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 5.7.1" />
-<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="http://lg.fazals.ml/wp-content/uploads/2021/04/24-150x150.png" sizes="32x32" />
+<link rel="icon" href="http://lg.fazals.ml/wp-content/uploads/2021/04/24-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://lg.fazals.ml/wp-content/uploads/2021/04/24-300x300.png" />
+<meta name="msapplication-TileImage" content="http://lg.fazals.ml/wp-content/uploads/2021/04/24-300x300.png" />
+</head>
 
 <body itemtype='https://schema.org/Blog' itemscope='itemscope' class="archive category category-uncategorized category-1 wp-custom-logo ast-mobile-inherit-site-logo ast-inherit-site-logo-transparent ast-hfb-header ast-desktop ast-separate-container ast-two-container ast-no-sidebar astra-3.3.3 elementor-default elementor-kit-38">
 <div 
