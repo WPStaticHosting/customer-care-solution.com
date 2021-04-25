@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://customer-care.urban-electronics.com/sitemap_index.xml
+Sitemap: https://customer-care.urban-electronic.com/sitemap_index.xml
