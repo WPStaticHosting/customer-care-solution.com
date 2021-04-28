@@ -1461,6 +1461,7 @@ a.square-border {
 .premium-blog-wrap ul.slick-dots,
 .premium-fb-rev-reviews ul.slick-dots {
   position: relative;
+  bottom: 0;
   list-style: none;
   text-align: center;
   margin: 0;
