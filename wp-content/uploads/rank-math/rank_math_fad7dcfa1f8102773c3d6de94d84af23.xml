@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://customer-care-solution.com/</loc>
-		<lastmod>2021-04-30T05:18:48+05:00</lastmod>
+		<lastmod>2021-04-30T21:42:22+05:00</lastmod>
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/handymen-carpentry-decorations-3091826.jpg</image:loc>
 			<image:title><![CDATA[handymen, carpentry, decorations-3091826]]></image:title>
@@ -32,6 +32,37 @@
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/haier-logo-1024x315.png</image:loc>
 			<image:caption><![CDATA[haier logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Daikin_logo-1024x224.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Blue-Star-logo-1024x205.png</image:loc>
+			<image:caption><![CDATA[Blue Star logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Voltas-Logo.png</image:loc>
+			<image:caption><![CDATA[Voltas Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Lloyd-logo-1024x653.jpg</image:loc>
+			<image:caption><![CDATA[Lloyd-logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Onida-Logo.png</image:loc>
+			<image:caption><![CDATA[Onida Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Sony-Logo-1-1024x215.png</image:loc>
+			<image:caption><![CDATA[Sony Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Videocon-logo.jpg</image:loc>
+			<image:caption><![CDATA[Videocon logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Samsung-Logo.png</image:loc>
+			<image:caption><![CDATA[Samsung Logo]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
