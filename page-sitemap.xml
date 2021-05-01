@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://customer-care-solution.com/</loc>
-		<lastmod>2021-04-30T21:42:22+05:00</lastmod>
+		<lastmod>2021-05-01T15:22:40+05:00</lastmod>
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/handymen-carpentry-decorations-3091826.jpg</image:loc>
 			<image:title><![CDATA[handymen, carpentry, decorations-3091826]]></image:title>
@@ -10,6 +10,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/logo-290x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/home-appliances-services-jpg-500x500-1.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/logo-b2c.jpg</image:loc>
@@ -61,8 +64,11 @@
 			<image:caption><![CDATA[Videocon logo]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Samsung-Logo.png</image:loc>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Samsung-Logo-1.png</image:loc>
 			<image:caption><![CDATA[Samsung Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/tv-repair-banner.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
