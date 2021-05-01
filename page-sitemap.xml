@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://customer-care-solution.com/</loc>
-		<lastmod>2021-05-01T15:22:40+05:00</lastmod>
+		<lastmod>2021-05-01T21:59:22+05:00</lastmod>
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/handymen-carpentry-decorations-3091826.jpg</image:loc>
 			<image:title><![CDATA[handymen, carpentry, decorations-3091826]]></image:title>
@@ -69,6 +69,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/tv-repair-banner.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Laptop-Computer-Repairing-Service-Customer-Care-Mysore.jpg</image:loc>
+			<image:caption><![CDATA[Laptop Computer Repairing Service Customer Care Mysore]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Hitachi-Logo-1024x576.png</image:loc>
+			<image:caption><![CDATA[Hitachi Customer Care Mysore Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Panasonic-Logo-1024x372.png</image:loc>
+			<image:caption><![CDATA[Panasonic Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Water-Proofing-Solutions.jpg</image:loc>
+			<image:caption><![CDATA[Water Proofing Solutions]]></image:caption>
 		</image:image>
 	</url>
 </urlset>

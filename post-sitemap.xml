@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//customer-care-solution.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://customer-care-solution.com/panasonic-customer-care-mysore/</loc>
+		<lastmod>2021-05-01T21:57:49+05:00</lastmod>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Panasonic-Logo.png</image:loc>
+			<image:title><![CDATA[Panasonic Logo]]></image:title>
+			<image:caption><![CDATA[Panasonic Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Panasonic-Service-Center-Mysore-Banner-1024x256.png</image:loc>
+			<image:caption><![CDATA[Panasonic Service Center Mysore Banner]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://customer-care-solution.com/hitachi-customer-care-mysore/</loc>
+		<lastmod>2021-05-01T21:40:08+05:00</lastmod>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Hitachi-Logo.png</image:loc>
+			<image:title><![CDATA[Hitachi Logo]]></image:title>
+			<image:caption><![CDATA[Hitachi Customer Care Mysore Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://customer-care-solution.com/waterproofing-solutions-service-mysore/</loc>
+		<lastmod>2021-05-01T21:23:09+05:00</lastmod>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/logo.png</image:loc>
+			<image:title><![CDATA[logo]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Water-Proofing-Banner.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Dr.-Fixit-Water-Proofing-Solution-Mysore.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Berger-Paints-Logo.png</image:loc>
+			<image:caption><![CDATA[Berger Paints Logo Mysore]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://customer-care-solution.com/led-lcd-tv-customer-care-mysore/</loc>
-		<lastmod>2021-05-01T15:20:59+05:00</lastmod>
+		<lastmod>2021-05-01T20:16:45+05:00</lastmod>
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/logo.png</image:loc>
 			<image:title><![CDATA[logo]]></image:title>
@@ -29,6 +69,36 @@
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/logo-b2c.jpg</image:loc>
 			<image:caption><![CDATA[lg logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://customer-care-solution.com/laptop-computer-customer-care-mysore/</loc>
+		<lastmod>2021-05-01T16:17:33+05:00</lastmod>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/logo.png</image:loc>
+			<image:title><![CDATA[logo]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Laptop-Computer-Repairing-Service-Customer-Care-Mysore.jpg</image:loc>
+			<image:caption><![CDATA[Laptop Computer Repairing Service Customer Care Mysore]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Asus-Logo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Acer-Logo-1024x247.png</image:loc>
+			<image:caption><![CDATA[Acer Logo laptop computer]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/HP-Laptop-Computer-Logo-1024x845.jpg</image:loc>
+			<image:caption><![CDATA[HP Laptop Computer Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Lenovo-Logo.png</image:loc>
+			<image:caption><![CDATA[Lenovo Logo Laptop]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Dell-Logo-1024x311.png</image:loc>
 		</image:image>
 	</url>
 	<url>
