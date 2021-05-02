@@ -18,7 +18,7 @@
 <meta property="og:site_name" content="Customer Care">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Uncategorized - Customer Care">
-<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://customer-care-solution.com/#organization","name":"Customer Care","url":"https://customer-care-solution.com","logo":{"@type":"ImageObject","@id":"https://customer-care-solution.com/#logo","url":"https://customer-care-solution.com/wp-content/uploads/2021/04/24.png","caption":"Customer Care","inLanguage":"en-US","width":"500","height":"500"}},{"@type":"WebSite","@id":"https://customer-care-solution.com/#website","url":"https://customer-care-solution.com","name":"Customer Care","publisher":{"@id":"https://customer-care-solution.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://customer-care-solution.com/wp-content/uploads/2021/05/Panasonic-Logo.png","url":"https://customer-care-solution.com/wp-content/uploads/2021/05/Panasonic-Logo.png","width":"4096","height":"1488","caption":"Panasonic Logo","inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://customer-care-solution.com/category/uncategorized/#webpage","url":"https://customer-care-solution.com/category/uncategorized/","name":"Uncategorized - Customer Care","isPartOf":{"@id":"https://customer-care-solution.com/#website"},"primaryImageOfPage":{"@id":"https://customer-care-solution.com/wp-content/uploads/2021/05/Panasonic-Logo.png"},"inLanguage":"en-US"},{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":"1","url":"https://customer-care-solution.com/panasonic-customer-care-mysore/"},{"@type":"ListItem","position":"2","url":"https://customer-care-solution.com/hitachi-customer-care-mysore/"},{"@type":"ListItem","position":"3","url":"https://customer-care-solution.com/water-purifier-solutions-service-mysore/"},{"@type":"ListItem","position":"4","url":"https://customer-care-solution.com/laptop-computer-customer-care-mysore/"},{"@type":"ListItem","position":"5","url":"https://customer-care-solution.com/led-lcd-tv-customer-care-mysore/"},{"@type":"ListItem","position":"6","url":"https://customer-care-solution.com/samsung-customer-care-mysore/"},{"@type":"ListItem","position":"7","url":"https://customer-care-solution.com/videocon-customer-care-mysore/"},{"@type":"ListItem","position":"8","url":"https://customer-care-solution.com/sony-customer-care-mysore/"},{"@type":"ListItem","position":"9","url":"https://customer-care-solution.com/onida-customer-care-mysore/"},{"@type":"ListItem","position":"10","url":"https://customer-care-solution.com/lloyd-customer-care-mysore/"}],"mainEntityOfPage":{"@id":"https://customer-care-solution.com/category/uncategorized/#webpage"}}]}</script>
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://customer-care-solution.com/#organization","name":"Customer Care","url":"https://customer-care-solution.com","logo":{"@type":"ImageObject","@id":"https://customer-care-solution.com/#logo","url":"http://localhost:4002/wp-content/uploads/2021/04/24.png","caption":"Customer Care","inLanguage":"en-US","width":"500","height":"500"}},{"@type":"WebSite","@id":"https://customer-care-solution.com/#website","url":"https://customer-care-solution.com","name":"Customer Care","publisher":{"@id":"https://customer-care-solution.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://customer-care-solution.com/wp-content/uploads/2021/05/Panasonic-Logo.png","url":"https://customer-care-solution.com/wp-content/uploads/2021/05/Panasonic-Logo.png","width":"4096","height":"1488","caption":"Panasonic Logo","inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://customer-care-solution.com/category/uncategorized/#webpage","url":"https://customer-care-solution.com/category/uncategorized/","name":"Uncategorized - Customer Care","isPartOf":{"@id":"https://customer-care-solution.com/#website"},"primaryImageOfPage":{"@id":"https://customer-care-solution.com/wp-content/uploads/2021/05/Panasonic-Logo.png"},"inLanguage":"en-US"},{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":"1","url":"https://customer-care-solution.com/panasonic-customer-care-mysore/"},{"@type":"ListItem","position":"2","url":"https://customer-care-solution.com/hitachi-customer-care-mysore/"},{"@type":"ListItem","position":"3","url":"https://customer-care-solution.com/water-purifier-solutions-service-mysore/"},{"@type":"ListItem","position":"4","url":"https://customer-care-solution.com/laptop-computer-customer-care-mysore/"},{"@type":"ListItem","position":"5","url":"https://customer-care-solution.com/led-lcd-tv-customer-care-mysore/"},{"@type":"ListItem","position":"6","url":"https://customer-care-solution.com/samsung-customer-care-mysore/"},{"@type":"ListItem","position":"7","url":"https://customer-care-solution.com/videocon-customer-care-mysore/"},{"@type":"ListItem","position":"8","url":"https://customer-care-solution.com/sony-customer-care-mysore/"},{"@type":"ListItem","position":"9","url":"https://customer-care-solution.com/onida-customer-care-mysore/"},{"@type":"ListItem","position":"10","url":"https://customer-care-solution.com/lloyd-customer-care-mysore/"}],"mainEntityOfPage":{"@id":"https://customer-care-solution.com/category/uncategorized/#webpage"}}]}</script>
 <!-- /Rank Math WordPress SEO plugin -->
 
 <link rel='dns-prefetch' href='//customer-care-solution.com' />
@@ -58,7 +58,33 @@ gtag("config", "UA-195625355-1", {"anonymize_ip":true});
 <link rel="icon" href="https://customer-care-solution.com/wp-content/uploads/2021/05/cropped-customer-care-solution.com-Logo-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://customer-care-solution.com/wp-content/uploads/2021/05/cropped-customer-care-solution.com-Logo-180x180.png" />
 <meta name="msapplication-TileImage" content="https://customer-care-solution.com/wp-content/uploads/2021/05/cropped-customer-care-solution.com-Logo-270x270.png" />
-</head>
+		<style id="wp-custom-css">
+			
+
+/** Start Template Kit CSS: House Cleaning Company (css/customizer.css) **/
+
+.envato-kit-79-form .elementor-field-type-checkbox .elementor-field-option{
+	width: 25%;
+	padding: 3px;
+}
+.envato-kit-79-form .elementor-field-type-checkbox .elementor-field-option label{
+	vertical-align: top !important;
+}
+@media screen and (max-width: 460px){
+	.envato-kit-79-form .elementor-field-type-checkbox .elementor-field-option{
+		width: 50%;
+	}
+}
+
+.envato-kit-79-price-icon .elementor-price-list .elementor-price-list-image img{
+	width: 40px;
+ opacity: .3;
+}
+
+/** End Template Kit CSS: House Cleaning Company (css/customizer.css) **/
+
+		</style>
+		</head>
 
 <body itemtype='https://schema.org/Blog' itemscope='itemscope' class="archive category category-uncategorized category-1 ast-mobile-inherit-site-logo ast-inherit-site-logo-transparent ast-hfb-header ast-desktop ast-separate-container ast-two-container ast-no-sidebar astra-3.4.0 elementor-default elementor-kit-38">
 <div 

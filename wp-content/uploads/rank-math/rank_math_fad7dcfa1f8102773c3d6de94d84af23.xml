@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://customer-care-solution.com/</loc>
-		<lastmod>2021-05-02T11:32:42+05:00</lastmod>
+		<lastmod>2021-05-02T19:50:21+05:00</lastmod>
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/handymen-carpentry-decorations-3091826.jpg</image:loc>
 			<image:title><![CDATA[handymen, carpentry, decorations-3091826]]></image:title>
@@ -84,6 +84,61 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/water-purifiers.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://customer-care-solution.com/customer-care-solution/</loc>
+		<lastmod>2021-05-02T20:10:18+05:00</lastmod>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/cropped-customer-care-solution.com-Logo-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/Samsung-Washing-Machine-Banner.jpg</image:loc>
+			<image:caption><![CDATA[Samsung-Washing-Machine-Banner]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/set-white-home-appliances-on-260nw-692475616-1.png</image:loc>
+			<image:caption><![CDATA[set-white-home-appliances-on-260nw-692475616]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/godrej-banner.jpg</image:loc>
+			<image:caption><![CDATA[godrej-banner]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/VOLTAS-SPLIT-AC-123-ZZY-IMRR32-1-TON-3-STAR.png</image:loc>
+			<image:caption><![CDATA[VOLTAS SPLIT AC 123 ZZY-IMR(R32) 1 TON 3 STAR]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Haier-Smart-Android-Refrigerator.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Godrej-Convection-Cherry-Blossom-Microwave-Oven.jpg</image:loc>
+			<image:caption><![CDATA[Godrej Convection Cherry Blossom Microwave Oven]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/VOLTAS-SPLIT-AC-123-ZZY-IMRR32-1-TON-3-STAR.png</image:loc>
+			<image:caption><![CDATA[VOLTAS SPLIT AC 123 ZZY-IMR(R32) 1 TON 3 STAR]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Haier-Smart-Android-Refrigerator.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/05/shutterstock_92526319_0.jpgqitok4Z3uURHU.pagespeed.ce_.VzWLr-TnhV-768x434.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/VOLTAS-WINDOW-AC-185-MZK-R32-1.5-TON-5-STAR.png</image:loc>
+			<image:caption><![CDATA[VOLTAS WINDOW AC 185 MZK-R32 1.5 TON 5 STAR]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Samsung-Linear-Dishwasher.jpg</image:loc>
+			<image:caption><![CDATA[Samsung Linear Dishwasher]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Lloyd-Fully-Automatic-Front-Load-Washing-Machine.jpg</image:loc>
+			<image:caption><![CDATA[Lloyd Fully Automatic Front Load Washing Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://customer-care-solution.com/wp-content/uploads/2021/04/Haier-Smart-Android-Refrigerator.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
